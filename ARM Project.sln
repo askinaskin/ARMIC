@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARM Project", "ARM Project.csproj", "{A9BEE0A7-A565-DCFF-C33E-EE3A66B4B6ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARM Project.Editor", "ARM Project.Editor.csproj", "{51653A8C-C887-0F23-7D48-E7C8E3E20D23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9BEE0A7-A565-DCFF-C33E-EE3A66B4B6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BEE0A7-A565-DCFF-C33E-EE3A66B4B6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BEE0A7-A565-DCFF-C33E-EE3A66B4B6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BEE0A7-A565-DCFF-C33E-EE3A66B4B6ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51653A8C-C887-0F23-7D48-E7C8E3E20D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51653A8C-C887-0F23-7D48-E7C8E3E20D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51653A8C-C887-0F23-7D48-E7C8E3E20D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51653A8C-C887-0F23-7D48-E7C8E3E20D23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
